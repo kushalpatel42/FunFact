@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/FunFact.git/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/FunFact.git/static/js/main.1f855a40.chunk.js",
-    "main.js.map": "/FunFact.git/static/js/main.1f855a40.chunk.js.map",
-    "runtime-main.js": "/FunFact.git/static/js/runtime-main.5877a640.js",
-    "runtime-main.js.map": "/FunFact.git/static/js/runtime-main.5877a640.js.map",
-    "static/js/2.d9577fba.chunk.js": "/FunFact.git/static/js/2.d9577fba.chunk.js",
-    "static/js/2.d9577fba.chunk.js.map": "/FunFact.git/static/js/2.d9577fba.chunk.js.map",
-    "static/js/3.464134f3.chunk.js": "/FunFact.git/static/js/3.464134f3.chunk.js",
-    "static/js/3.464134f3.chunk.js.map": "/FunFact.git/static/js/3.464134f3.chunk.js.map",
-    "index.html": "/FunFact.git/index.html",
-    "static/css/main.6dea0f05.chunk.css.map": "/FunFact.git/static/css/main.6dea0f05.chunk.css.map",
-    "static/js/2.d9577fba.chunk.js.LICENSE.txt": "/FunFact.git/static/js/2.d9577fba.chunk.js.LICENSE.txt",
-    "static/media/octopus.d4b67b01.png": "/FunFact.git/static/media/octopus.d4b67b01.png"
+    "main.css": "/FunFact/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/FunFact/static/js/main.1f855a40.chunk.js",
+    "main.js.map": "/FunFact/static/js/main.1f855a40.chunk.js.map",
+    "runtime-main.js": "/FunFact/static/js/runtime-main.6fdb60ce.js",
+    "runtime-main.js.map": "/FunFact/static/js/runtime-main.6fdb60ce.js.map",
+    "static/js/2.d9577fba.chunk.js": "/FunFact/static/js/2.d9577fba.chunk.js",
+    "static/js/2.d9577fba.chunk.js.map": "/FunFact/static/js/2.d9577fba.chunk.js.map",
+    "static/js/3.464134f3.chunk.js": "/FunFact/static/js/3.464134f3.chunk.js",
+    "static/js/3.464134f3.chunk.js.map": "/FunFact/static/js/3.464134f3.chunk.js.map",
+    "index.html": "/FunFact/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/FunFact/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.d9577fba.chunk.js.LICENSE.txt": "/FunFact/static/js/2.d9577fba.chunk.js.LICENSE.txt",
+    "static/media/octopus.d4b67b01.png": "/FunFact/static/media/octopus.d4b67b01.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.5877a640.js",
+    "static/js/runtime-main.6fdb60ce.js",
     "static/js/2.d9577fba.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
     "static/js/main.1f855a40.chunk.js"
